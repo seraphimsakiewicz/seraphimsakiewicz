@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...Java 
 - 🌱 I’m currently learning ...Java
 - 💞️ I’m looking to collaborate on ...anything
-- 📫 How to reach me ...seraphimsakiewicz @instagram.
+- 📫 How to reach me ...seraphimsakiewicz @social media
 
 <!---
 seraphimsakiewicz/seraphimsakiewicz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
