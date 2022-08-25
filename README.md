@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @seraphimsakiewicz
+- 👋 Hi, I’m Seraphim.
 - 👀 I’m interested in...JavaScript,Java,HTML,CSS,Postgres,Sequelize,Node,C#,React 
 - 🌱 I’m currently learning...Java
 - 💞️ I’m looking to collaborate on ...anything
