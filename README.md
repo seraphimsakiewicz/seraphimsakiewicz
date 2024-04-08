@@ -1,10 +1,5 @@
-- 👋 Hi, I’m Seraphim.
-- 👀 I’m interested in JavaScript,Java,HTML,CSS,Postgres,Sequelize,Node,C#,React 
-- 🌱 I’m currently working for Method3 to help a private customer modernize their websites.
-- 💞️ I’m looking to collaborate on anything
-- 📫 How to reach me seraphim.codes@gmail.com
+Full-Stack developer specializing in React, Node, TypeScript, and AWS (Lambda, DynamoDB, OpenSearch). Currently pursuing AWS Certified Cloud Practitioner and AWS Certified Developer - Associate certifications from AWS Cloud Institute, expected by end of 2024. In addition, I'm currently building a AI video chat app to help learn learn English using React, TypeScript, Node, and integrations with APIs Daily.co(WebRTC) and Deepgram(Transcription)
 
-<!---
-seraphimsakiewicz/seraphimsakiewicz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ I have 3 years of experience in the industry and I have built applications for the insurance, environmental sustainability, and financial industries.
+
+Check out my Linkedin here... https://www.linkedin.com/in/seraphim-sakiewicz/
