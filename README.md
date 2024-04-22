@@ -6,6 +6,7 @@ I have 3 years of experience in the industry and I have built applications for t
 ### Contact me 📞
 <a href="mailto:seraphim.codes@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/seraphim-sakiewicz/"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://em09.short.gy/download-my-resume"><img alt="PDF icon" src="https://img.shields.io/badge/My_Resume-EA4335?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white"/></a>
 
 ### Main tech I use🔧
 ![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
