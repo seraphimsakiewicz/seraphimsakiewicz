@@ -3,8 +3,6 @@ Full-Stack engineer specializing in React, Node, TypeScript, and AWS (Lambda, Dy
 
  I have 3 years of experience in software and I have built applications for the insurance, environmental sustainability, and financial industries.
 
-I have 3 years of experience in the industry and I have built applications for the insurance, environmental sustainability, and financial industries.
-
 ### Contact me 📞
 <a href="mailto:seraphim.codes@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/seraphim-sakiewicz/"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
