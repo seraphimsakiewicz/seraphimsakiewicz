@@ -1,5 +1,7 @@
 # Seraphim Sakiewicz
-Full-Stack developer specializing in React, Node, TypeScript, and AWS (Lambda, DynamoDB, OpenSearch, State Machines). I'm currently pursuing Certified Cloud Practitioner and Certified Developer - Associate certifications from AWS Cloud Institute, expected by end of 2024. In addition, I'm currently building a AI video chat app to help learn learn English using Next, React, TypeScript, Node, and integrations with APIs Daily.co (WebRTC) and Deepgram (Transcription).
+Full-Stack engineer specializing in React, Node, TypeScript, and AWS (Lambda, DynamoDB, OpenSearch, State Machines). I'm currently studying Next.js and GenAI.
+
+ I have 3 years of experience in software and I have built applications for the insurance, environmental sustainability, and financial industries.
 
 I have 3 years of experience in the industry and I have built applications for the insurance, environmental sustainability, and financial industries.
 
