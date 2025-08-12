@@ -2,7 +2,9 @@
 3+ years of experience in the industry and I have built applications for the insurance, sustainability, and
 financial industries.
 
-Full-Stack engineer specializing in React, Node, TypeScript, and AWS. Currently building Hack Frontend, a
+Full-Stack engineer specializing in React, Node, TypeScript, and AWS. 
+
+Currently building Hack Frontend, a
 platform dedicated to enhancing frontend development skills and preparing candidates for successful interviews.
 
 ### Contact me 📞
