@@ -1,7 +1,9 @@
 # Seraphim Sakiewicz
-Full-Stack engineer specializing in React, Node, TypeScript, and AWS (Lambda, DynamoDB, OpenSearch, State Machines). I'm currently studying Next.js and GenAI.
+3+ years of experience in the industry and I have built applications for the insurance, sustainability, and
+financial industries.
 
- I have 4 years of experience in software and I have built applications for the insurance, environmental sustainability, and financial industries.
+Full-Stack engineer specializing in React, Node, TypeScript, and AWS. Currently building Hack Frontend, a
+platform dedicated to enhancing frontend development skills and preparing candidates for successful interviews.
 
 ### Contact me 📞
 <a href="mailto:seraphim.codes@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
